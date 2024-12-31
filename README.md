@@ -55,10 +55,8 @@ Designed two dynamic dashboards to visualize and analyze key metrics:
 - Created Excel Macros to automate repetitive tasks, improving efficiency by 30%.
 
 ## Key Insights
-- 20% higher profits on weekends compared to weekdays.
 - Top 5 products contributed 35% of total profit.
-- 40% of total revenue derived from high-performing regions.
-- Uncovered 25% YoY growth during peak years.
+- 60% of total revenue derived from high-performing regions.
 - Enhanced reporting efficiency by 25% through automation.
 
 ## Tools and Technologies Used :-
